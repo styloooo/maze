@@ -1,0 +1,3 @@
+This program generates a random maze and then solves it. For the maze code, please look at maze.cpp.
+The program solves all possible paths to the bottom and shows the solution for the longest path among all available options in the bottom row.
+My initial solution for solving is commented out at the end of the file. I came up with the better solution later but let the original remain in the comments.
